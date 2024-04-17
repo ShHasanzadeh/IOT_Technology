@@ -4,13 +4,13 @@
 ## To become an IoT Developer ✔️
 This post to 2 road ways :
 
-.Embedded IoT Developer 🧑‍💻
-.IoT Application Developer 🧑‍💻
+Embedded IoT Developer 🧑‍💻
+IoT Application Developer 🧑‍💻
 
-The Way the road maps are structured are as follows:
+### The Way the road maps are structured are as follows:
 
->Programming Languages
->Concepts
+Programming Languages
+Concepts
 Tools
 Embedded IoT Developer
 Programming Languages 💻:
@@ -21,7 +21,7 @@ Bash Scripting (Nice To have)
 Rust (Nice To have)
 Those Programming Languages are going to give you a head start to kickstart the embedded journey where C++ and Embedded C are the bare minimum to get started
 
-Concepts 🧠:
+### Concepts 🧠:
 RTOS (Must Have)
 IoT Value Chain (Must Have)
 IoT Security (Nice To Have)
@@ -35,7 +35,7 @@ Embedded Design Patterns (Must Have)
 Networks (Nice To Have)
 These Concepts are mandatory in order to be able to work comfortablly developing IoT Solutions.
 
-Tools 🧰:
+### Tools 🧰:
 Platform IO
 CMake
 Esp IDF
@@ -44,7 +44,7 @@ RISC
 CISC
 The difference between CISC and RISC Targets should be understandable during development of Embedded IoT Solutions
 
-You Can try the Following Targets / Dev Boards:
+#### You Can try the Following Targets / Dev Boards:
 
 Targets
 STM32 (Blue/Black Pill)
@@ -54,8 +54,8 @@ BeagleBone (Embedded Linux)
 Jetson Nano (Embedded Linux)
 To Work with those Targets and get something useful out of them you have to understand the target peripherals which include the following:
 
->> Microcontoller Peripherals 🎮
-. GPIO
+Microcontoller Peripherals 🎮
+GPIO
 Timers
 PWM
 ADC
