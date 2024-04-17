@@ -4,13 +4,13 @@
 ## To become an IoT Developer ✔️
 This post to 2 road ways :
 
-. Embedded IoT Developer 🧑‍💻
-. IoT Application Developer 🧑‍💻
+.Embedded IoT Developer 🧑‍💻
+.IoT Application Developer 🧑‍💻
 
 The Way the road maps are structured are as follows:
 
->> Programming Languages
-Concepts
+>Programming Languages
+>Concepts
 Tools
 Embedded IoT Developer
 Programming Languages 💻:
