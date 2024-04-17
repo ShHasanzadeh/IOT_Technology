@@ -7,7 +7,7 @@ This post to 2 road ways :
 Embedded IoT Developer 🧑‍💻
 IoT Application Developer 🧑‍💻
 
-### The Way the road maps are structured are as follows:
+### The Way the road maps are structured are as follows :
 
 Programming Languages
 Concepts
@@ -54,7 +54,7 @@ BeagleBone (Embedded Linux)
 Jetson Nano (Embedded Linux)
 To Work with those Targets and get something useful out of them you have to understand the target peripherals which include the following:
 
-Microcontoller Peripherals 🎮
+#### Microcontoller Peripherals 🎮
 GPIO
 Timers
 PWM
