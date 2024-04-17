@@ -1,6 +1,13 @@
 # IOT_Technology
 # IOT_Rodmap
 
+
+###The Internet of Things : 
+
+What is the Internet of Things (IoT)? The term IoT, or Internet of Things, refers to the collective network of connected devices and the technology that facilitates communication between devices and the cloud, as well as between the devices themselves.
+
+
+
 ## To become an IoT Developer ✔️
 This post to 2 road ways :
 
