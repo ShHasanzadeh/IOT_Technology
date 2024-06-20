@@ -16,5 +16,5 @@ https://github.com/ShHasanzadeh/IOT_Technology/tree/IOT_System_Calls
 https://github.com/ShHasanzadeh/IOT_Technology/tree/IOT_Linux22.04_Install_GCC
 
 
-## IOT_ADB_debugger
-https://github.com/ShHasanzadeh/IOT_Technology/tree/IOT_ADB_debugger
+## IOT_ADB_Debugger
+https://github.com/ShHasanzadeh/IOT_Technology/tree/IOT_ADB_Debugger
