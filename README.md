@@ -1,5 +1,4 @@
-🌅🌅🌅Hi guys.
-today let's talk about my new experience on #ADB(#Android #Debug #Bridge) Tools via #Linux #OTA #Server on Real Automotive HMI Head Unit.....👌👌
+ talk about my new experience on #ADB(#Android #Debug #Bridge) Tools via #Linux #OTA #Server on Real Automotive HMI Head Unit.....👌👌
 
 🔗Prerequisites:
 
