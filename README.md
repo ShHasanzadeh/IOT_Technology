@@ -18,3 +18,7 @@ https://github.com/ShHasanzadeh/IOT_Technology/tree/IOT_Linux22.04_Install_GCC
 
 ## IOT_ADB_Debugger
 https://github.com/ShHasanzadeh/IOT_Technology/tree/IOT_ADB_Debugger
+
+
+## IOT_UBUNTU_Terminal_VPN_Proxy
+https://github.com/ShHasanzadeh/IOT_Technology/tree/IOT_UBUNTU_Terminal_VPN_Proxy
